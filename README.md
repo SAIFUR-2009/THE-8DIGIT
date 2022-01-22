@@ -9,7 +9,7 @@ $ apt install python python2 git -y
 
 $ pip2 install requests mechanize
 
-$ git clone https://github.com/SAIFUR-2009/THE-7DIGIT.git
+$ git clone https://github.com/SAIFUR-2009/THE-8DIGIT.git
 
 $ cd THE-8DIGIT
 
