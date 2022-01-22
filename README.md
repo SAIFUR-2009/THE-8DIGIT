@@ -1,4 +1,4 @@
-# BANGLADESHI ALL SIM 07 PASSWORD CLONER TOOLS
+# BANGLADESHI ALL SIM 08 DIGIT PASSWORD CLONER TOOLS
 # Command
 
 $ apt update
@@ -11,9 +11,9 @@ $ pip2 install requests mechanize
 
 $ git clone https://github.com/SAIFUR-2009/THE-7DIGIT.git
 
-$ cd THE-7DIGIT
+$ cd THE-8DIGIT
 
-$ python2 THE-7DIGIT.py
+$ python2 THE-8DIGIT.py
 
 # Username&password - inbox me
 
