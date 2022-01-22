@@ -98,7 +98,7 @@ os.system('xdg-open https://www.facebook.com/abbu.2454')
 def menu():
     os.system('clear')
     print logo
-    print '\x1b[1;90mONLY \x1b[1;90m11 \x1b[1;90m07 DIGITS HACKABLE ACCOUNTS ARE AVAILABLE'
+    print '\x1b[1;90mONLY \x1b[1;90m07 \x1b[1;90m DIGITS HACKABLE ACCOUNTS ARE AVAILABLE'
     print
     jalan('\x1b[1;92m[1]  \x1b[1;92mGRAMEENPHONE')
     jalan('\x1b[1;96m[2]  \x1b[1;96mROBI')
