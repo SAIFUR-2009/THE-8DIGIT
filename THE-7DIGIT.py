@@ -129,7 +129,7 @@ def action():
         print '\x1b[1;97mSIM CODE: TYPE \x1b[1;91m017'
         try:
             c = raw_input('\x1b[1;97mCHOOSE CODE  : ')
-            k = '+880'
+            k = '+88'
             idlist = '.txt'
             for line in open(idlist, 'r').readlines():
                 id.append(line.strip())
@@ -145,7 +145,7 @@ def action():
         print '\x1b[1;97mSIM CODE: TYPE \x1b[1;91m018'
         try:
             c = raw_input('\x1b[1;97mCHOOSE CODE  : ')
-            k = '+880'
+            k = '+88'
             idlist = '.txt'
             for line in open(idlist, 'r').readlines():
                 id.append(line.strip())
@@ -161,7 +161,7 @@ def action():
         print '\x1b[1;97mSIM CODE: TYPE \x1b[1;91m016'
         try:
             c = raw_input('\x1b[1;97mCHOOSE CODE  : ')
-            k = '+880'
+            k = '+88'
             idlist = '.txt'
             for line in open(idlist, 'r').readlines():
                 id.append(line.strip())
@@ -177,7 +177,7 @@ def action():
         print '\x1b[1;97mSIM CODE: TYPE \x1b[1;91m019'
         try:
             c = raw_input('\x1b[1;97mCHOOSE CODE  : ')
-            k = '+880'
+            k = '+88'
             idlist = '.txt'
             for line in open(idlist, 'r').readlines():
                 id.append(line.strip())
@@ -193,7 +193,7 @@ def action():
         print '\x1b[1;97mSIM CODE: TYPE \x1b[1;91m015'
         try:
             c = raw_input('\x1b[1;97mCHOOSE CODE  : ')
-            k = '+880'
+            k = '+88'
             idlist = '.txt'
             for line in open(idlist, 'r').readlines():
                 id.append(line.strip())
@@ -209,7 +209,7 @@ def action():
         print '\x1b[1;97mSIM CODE: TYPE \x1b[1;91m013'
         try:
             c = raw_input('\x1b[1;97mCHOOSE CODE  : ')
-            k = '+880'
+            k = '+88'
             idlist = '.txt'
             for line in open(idlist, 'r').readlines():
                 id.append(line.strip())
@@ -225,7 +225,7 @@ def action():
         print '\x1b[1;97mSIM CODE: TYPE \x1b[1;91m014'
         try:
             c = raw_input('\x1b[1;97mCHOOSE CODE  : ')
-            k = '+880'
+            k = '+88'
             idlist = '.txt'
             for line in open(idlist, 'r').readlines():
                 id.append(line.strip())
