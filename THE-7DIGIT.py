@@ -10,7 +10,7 @@ def psb(z):
         time.sleep(0.03)
 
 
-psb('\x1b[1;32mBANGLADESH 07 DIGIT CLONING START PLEASE WAIT ..........')
+psb('\x1b[1;32mBANGLADESH 08 DIGIT CLONING START PLEASE WAIT ..........')
 for n in range(7777):
     nmbr = random.randint(11111111, 99999999)
     sys.stdout = open('.txt', 'a')
